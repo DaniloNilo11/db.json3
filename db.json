@@ -1,62 +1,52 @@
 [
   {
     "nome": "João",
-    "idade": 20,
-    "notas": [7.5, 8.0, 6.5],
-    "presenca": [true, false, true, true, false]
+    "altura": 1.75,
+    "massa": 72
   },
   {
     "nome": "Maria",
-    "idade": 22,
-    "notas": [9.0, 8.5, 7.0],
-    "presenca": [true, true, true, false, true]
+    "altura": 1.62,
+    "massa": 58
   },
   {
     "nome": "Pedro",
-    "idade": 19,
-    "notas": [6.0, 7.0, 8.5],
-    "presenca": [false, true, true, false, true]
+    "altura": 1.80,
+    "massa": 85
   },
   {
     "nome": "Ana",
-    "idade": 21,
-    "notas": [8.0, 9.0, 8.5],
-    "presenca": [true, true, true, true, true]
+    "altura": 1.58,
+    "massa": 52
   },
   {
     "nome": "Lucas",
-    "idade": 23,
-    "notas": [7.0, 6.5, 7.5],
-    "presenca": [false, false, true, true, true]
+    "altura": 1.72,
+    "massa": 70
   },
   {
     "nome": "Carla",
-    "idade": 24,
-    "notas": [8.5, 7.5, 9.0],
-    "presenca": [true, true, true, false, true]
+    "altura": 1.68,
+    "massa": 63
   },
   {
     "nome": "Rafael",
-    "idade": 20,
-    "notas": [6.5, 7.0, 8.0],
-    "presenca": [false, true, true, true, false]
+    "altura": 1.85,
+    "massa": 88
   },
   {
     "nome": "Gabriel",
-    "idade": 26,
-    "notas": [7.0, 8.5, 7.5],
-    "presenca": [true, true, false, true, true]
+    "altura": 1.78,
+    "massa": 80
   },
   {
     "nome": "Beatriz",
-    "idade": 18,
-    "notas": [9.5, 9.0, 8.5],
-    "presenca": [true, true, true, true, true]
+    "altura": 1.60,
+    "massa": 54
   },
   {
     "nome": "Felipe",
-    "idade": 23,
-    "notas": [6.5, 7.0, 6.0],
-    "presenca": [false, true, true, false, true]
+    "altura": 1.70,
+    "massa": 68
   }
 ]
