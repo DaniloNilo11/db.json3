@@ -3,60 +3,60 @@
     "nome": "João",
     "altura": 1.75,
     "massa": 72,
-    "ano_nascimento": 1990
+    "anoNascimento": 1990
   },
   {
     "nome": "Maria",
     "altura": 1.62,
     "massa": 58,
-    "ano_nascimento": 1995
+    "anoNascimento": 1995
   },
   {
     "nome": "Pedro",
     "altura": 1.80,
     "massa": 85,
-    "ano_nascimento": 1988
+    "anoNascimento": 1988
   },
   {
     "nome": "Ana",
     "altura": 1.58,
     "massa": 52,
-    "ano_nascimento": 2001
+    "anoNascimento": 2001
   },
   {
     "nome": "Lucas",
     "altura": 1.72,
     "massa": 70,
-    "ano_nascimento": 1992
+    "anoNascimento": 1992
   },
   {
     "nome": "Carla",
     "altura": 1.68,
     "massa": 63,
-    "ano_nascimento": 1998
+    "anoNascimento": 1998
   },
   {
     "nome": "Rafael",
     "altura": 1.85,
     "massa": 88,
-    "ano_nascimento": 1985
+    "anoNascimento": 1985
   },
   {
     "nome": "Gabriel",
     "altura": 1.78,
     "massa": 80,
-    "ano_nascimento": 1993
+    "anoNascimento": 1993
   },
   {
     "nome": "Beatriz",
     "altura": 1.60,
     "massa": 54,
-    "ano_nascimento": 2000
+    "anoNascimento": 2000
   },
   {
     "nome": "Felipe",
     "altura": 1.70,
     "massa": 68,
-    "ano_nascimento": 1996
+    "anoNascimento": 1996
   }
 ]
